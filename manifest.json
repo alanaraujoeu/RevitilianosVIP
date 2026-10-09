@@ -1,0 +1,16 @@
+{
+    "schema":  1,
+    "updatedAt":  "2026-10-09T13:26:47.9143598Z",
+    "apps":  {
+                 "tour360":  {
+                                 "name":  "Tour Revitiliano 360",
+                                 "version":  "1.0.0",
+                                 "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.0.0/tour360-Setup-1.0.0.exe",
+                                 "installerName":  "tour360-Setup-1.0.0.exe",
+                                 "sizeBytes":  129626908,
+                                 "sha256":  "8ea266b9300d74c15331648bfc038ecf2a15f78f312e130b2297d3cc79cbf0fd",
+                                 "publishedAt":  "2026-10-09T13:26:47.9012943Z",
+                                 "notes":  "Primeira versao com instalador proprio"
+                             }
+             }
+}
