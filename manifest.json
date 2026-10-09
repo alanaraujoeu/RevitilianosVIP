@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "updatedAt":  "2026-10-09T13:26:47.9143598Z",
+    "updatedAt":  "2026-10-09T13:28:23.8522570Z",
     "apps":  {
                  "tour360":  {
                                  "name":  "Tour Revitiliano 360",
@@ -11,6 +11,16 @@
                                  "sha256":  "8ea266b9300d74c15331648bfc038ecf2a15f78f312e130b2297d3cc79cbf0fd",
                                  "publishedAt":  "2026-10-09T13:26:47.9012943Z",
                                  "notes":  "Primeira versao com instalador proprio"
-                             }
+                             },
+                 "ifcready":  {
+                                  "name":  "IFC Ready",
+                                  "version":  "1.0.0",
+                                  "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.0.0/ifcready-Setup-1.0.0.exe",
+                                  "installerName":  "ifcready-Setup-1.0.0.exe",
+                                  "sizeBytes":  104782738,
+                                  "sha256":  "42edda25d23728e476d6050dae9c6d015612bce060e659041a85411bdf2ba489",
+                                  "publishedAt":  "2026-10-09T13:28:23.8517209Z",
+                                  "notes":  "Primeira versao com instalador proprio"
+                              }
              }
 }
