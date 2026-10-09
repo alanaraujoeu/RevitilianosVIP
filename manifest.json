@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "updatedAt":  "2026-10-09T13:28:23.8522570Z",
+    "updatedAt":  "2026-10-09T13:28:54.1951405Z",
     "apps":  {
                  "tour360":  {
                                  "name":  "Tour Revitiliano 360",
@@ -21,6 +21,16 @@
                                   "sha256":  "42edda25d23728e476d6050dae9c6d015612bce060e659041a85411bdf2ba489",
                                   "publishedAt":  "2026-10-09T13:28:23.8517209Z",
                                   "notes":  "Primeira versao com instalador proprio"
-                              }
+                              },
+                 "alanpoint":  {
+                                   "name":  "AlanPoint",
+                                   "version":  "1.0.0",
+                                   "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/alanpoint-v1.0.0/alanpoint-Setup-1.0.0.exe",
+                                   "installerName":  "alanpoint-Setup-1.0.0.exe",
+                                   "sizeBytes":  25343901,
+                                   "sha256":  "acf1d4b2b10add8384f859bb12dc5a2e2bc1baec8ab18e41081145ac75b76690",
+                                   "publishedAt":  "2026-10-09T13:28:54.1941069Z",
+                                   "notes":  "Primeira versao com instalador proprio"
+                               }
              }
 }
