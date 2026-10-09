@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "updatedAt":  "2026-10-09T13:28:54.1951405Z",
+    "updatedAt":  "2026-10-09T13:30:11.8418556Z",
     "apps":  {
                  "tour360":  {
                                  "name":  "Tour Revitiliano 360",
@@ -30,6 +30,16 @@
                                    "sizeBytes":  25343901,
                                    "sha256":  "acf1d4b2b10add8384f859bb12dc5a2e2bc1baec8ab18e41081145ac75b76690",
                                    "publishedAt":  "2026-10-09T13:28:54.1941069Z",
+                                   "notes":  "Primeira versao com instalador proprio"
+                               },
+                 "conversor":  {
+                                   "name":  "Conversor Universal",
+                                   "version":  "1.0.0",
+                                   "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/conversor-v1.0.0/conversor-Setup-1.0.0.exe",
+                                   "installerName":  "conversor-Setup-1.0.0.exe",
+                                   "sizeBytes":  33572683,
+                                   "sha256":  "e7521fbe51ba32f4c746abb52a0f5709d4f4055932fa49f27ccd66b31340630c",
+                                   "publishedAt":  "2026-10-09T13:30:11.8418556Z",
                                    "notes":  "Primeira versao com instalador proprio"
                                }
              }
