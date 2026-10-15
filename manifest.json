@@ -1,46 +1,46 @@
 {
-    "schema":  1,
-    "updatedAt":  "2026-10-09T13:30:11.8418556Z",
-    "apps":  {
-                 "tour360":  {
-                                 "name":  "Tour Revitiliano 360",
-                                 "version":  "1.0.0",
-                                 "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.0.0/tour360-Setup-1.0.0.exe",
-                                 "installerName":  "tour360-Setup-1.0.0.exe",
-                                 "sizeBytes":  129626908,
-                                 "sha256":  "8ea266b9300d74c15331648bfc038ecf2a15f78f312e130b2297d3cc79cbf0fd",
-                                 "publishedAt":  "2026-10-09T13:26:47.9012943Z",
-                                 "notes":  "Primeira versao com instalador proprio"
-                             },
-                 "ifcready":  {
-                                  "name":  "IFC Ready",
-                                  "version":  "1.0.0",
-                                  "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.0.0/ifcready-Setup-1.0.0.exe",
-                                  "installerName":  "ifcready-Setup-1.0.0.exe",
-                                  "sizeBytes":  104782738,
-                                  "sha256":  "42edda25d23728e476d6050dae9c6d015612bce060e659041a85411bdf2ba489",
-                                  "publishedAt":  "2026-10-09T13:28:23.8517209Z",
-                                  "notes":  "Primeira versao com instalador proprio"
-                              },
-                 "alanpoint":  {
-                                   "name":  "AlanPoint",
-                                   "version":  "1.0.0",
-                                   "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/alanpoint-v1.0.0/alanpoint-Setup-1.0.0.exe",
-                                   "installerName":  "alanpoint-Setup-1.0.0.exe",
-                                   "sizeBytes":  25343901,
-                                   "sha256":  "acf1d4b2b10add8384f859bb12dc5a2e2bc1baec8ab18e41081145ac75b76690",
-                                   "publishedAt":  "2026-10-09T13:28:54.1941069Z",
-                                   "notes":  "Primeira versao com instalador proprio"
-                               },
-                 "conversor":  {
-                                   "name":  "Conversor Universal",
-                                   "version":  "1.0.0",
-                                   "installerUrl":  "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/conversor-v1.0.0/conversor-Setup-1.0.0.exe",
-                                   "installerName":  "conversor-Setup-1.0.0.exe",
-                                   "sizeBytes":  33572683,
-                                   "sha256":  "e7521fbe51ba32f4c746abb52a0f5709d4f4055932fa49f27ccd66b31340630c",
-                                   "publishedAt":  "2026-10-09T13:30:11.8418556Z",
-                                   "notes":  "Primeira versao com instalador proprio"
-                               }
-             }
+  "schema": 1,
+  "updatedAt": "2026-10-15T01:12:38.8782356Z",
+  "apps": {
+    "ifcready": {
+      "name": "IFC Ready",
+      "version": "1.0.0",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.0.0/ifcready-Setup-1.0.0.exe",
+      "installerName": "ifcready-Setup-1.0.0.exe",
+      "sizeBytes": 104782738,
+      "sha256": "42edda25d23728e476d6050dae9c6d015612bce060e659041a85411bdf2ba489",
+      "publishedAt": "2026-10-09T13:28:23.8517209Z",
+      "notes": "Primeira versao com instalador proprio"
+    },
+    "alanpoint": {
+      "name": "AlanPoint",
+      "version": "1.0.0",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/alanpoint-v1.0.0/alanpoint-Setup-1.0.0.exe",
+      "installerName": "alanpoint-Setup-1.0.0.exe",
+      "sizeBytes": 25343901,
+      "sha256": "acf1d4b2b10add8384f859bb12dc5a2e2bc1baec8ab18e41081145ac75b76690",
+      "publishedAt": "2026-10-09T13:28:54.1941069Z",
+      "notes": "Primeira versao com instalador proprio"
+    },
+    "conversor": {
+      "name": "Conversor Universal",
+      "version": "1.0.0",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/conversor-v1.0.0/conversor-Setup-1.0.0.exe",
+      "installerName": "conversor-Setup-1.0.0.exe",
+      "sizeBytes": 33572683,
+      "sha256": "e7521fbe51ba32f4c746abb52a0f5709d4f4055932fa49f27ccd66b31340630c",
+      "publishedAt": "2026-10-09T13:30:11.8418556Z",
+      "notes": "Primeira versao com instalador proprio"
+    },
+    "tour360": {
+      "name": "Tour Revitiliano 360",
+      "version": "1.0.1",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.0.1/tour360-Setup-1.0.1.exe",
+      "installerName": "tour360-Setup-1.0.1.exe",
+      "sizeBytes": 129633324,
+      "sha256": "3b0e7cbcab8eae911f7694685a98b157e268d88c42c6565e9c83a3d59403e51f",
+      "publishedAt": "2026-10-15T01:12:38.8629461Z",
+      "notes": "Costura de fotos refeita: escolhe a lente sozinho, descarta fotos que nao encaixam e nao fecha mais o app"
+    }
+  }
 }
