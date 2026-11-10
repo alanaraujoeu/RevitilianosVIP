@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T21:25:46.4799578Z",
+  "updatedAt": "2026-11-10T21:26:45.5808108Z",
   "apps": {
-    "alanpoint": {
-      "name": "AlanPoint",
-      "version": "1.0.0",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/alanpoint-v1.0.0/alanpoint-Setup-1.0.0.exe",
-      "installerName": "alanpoint-Setup-1.0.0.exe",
-      "sizeBytes": 25343901,
-      "sha256": "acf1d4b2b10add8384f859bb12dc5a2e2bc1baec8ab18e41081145ac75b76690",
-      "publishedAt": "2026-10-09T13:28:54.1941069Z",
-      "notes": "Primeira versao com instalador proprio"
-    },
     "conversor": {
       "name": "Conversor Universal",
       "version": "1.0.0",
@@ -49,6 +39,20 @@
       "installerNameAdmin": "ifcready-Setup-Admin-1.00.325.exe",
       "sizeBytesAdmin": 154408021,
       "sha256Admin": "258dbb32364063db3f2bd34c81609d1acb1a563dec2e64439f71cf4f763e7761"
+    },
+    "alanpoint": {
+      "name": "AlanPoint",
+      "version": "1.1.00",
+      "publishedAt": "2026-11-10T21:26:36.7209754Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/alanpoint-v1.1.00/alanpoint-Setup-1.1.00.exe",
+      "installerName": "alanpoint-Setup-1.1.00.exe",
+      "sizeBytes": 25356620,
+      "sha256": "ea1c0465f7e3c9bf6c66a6f55657210de79a35d6c7486af0950537f5bd41ec30",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/alanpoint-v1.1.00/alanpoint-Setup-Admin-1.1.00.exe",
+      "installerNameAdmin": "alanpoint-Setup-Admin-1.1.00.exe",
+      "sizeBytesAdmin": 25356620,
+      "sha256Admin": "6289bc4fe0866d755c59f65d8f80ea461c779b5c12d5f3fdd674c2d61754b33f"
     }
   }
 }
