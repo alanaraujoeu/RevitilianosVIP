@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T21:21:29.2201642Z",
+  "updatedAt": "2026-11-10T21:25:46.4799578Z",
   "apps": {
-    "ifcready": {
-      "name": "IFC Ready",
-      "version": "1.0.0",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.0.0/ifcready-Setup-1.0.0.exe",
-      "installerName": "ifcready-Setup-1.0.0.exe",
-      "sizeBytes": 104782738,
-      "sha256": "42edda25d23728e476d6050dae9c6d015612bce060e659041a85411bdf2ba489",
-      "publishedAt": "2026-10-09T13:28:23.8517209Z",
-      "notes": "Primeira versao com instalador proprio"
-    },
     "alanpoint": {
       "name": "AlanPoint",
       "version": "1.0.0",
@@ -45,6 +35,20 @@
       "installerNameAdmin": "tour360-Setup-Admin-1.1.00.exe",
       "sizeBytesAdmin": 179395404,
       "sha256Admin": "1666acf8aa00eb1ad4452178758721eaebdbe0da08e204e4634300efe1ac3961"
+    },
+    "ifcready": {
+      "name": "IFC Ready",
+      "version": "1.00.325",
+      "publishedAt": "2026-11-10T21:25:24.9065722Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.00.325/ifcready-Setup-1.00.325.exe",
+      "installerName": "ifcready-Setup-1.00.325.exe",
+      "sizeBytes": 154408020,
+      "sha256": "11c864e7ef411db809859ee28cb88cabeaa95577b290283476d2aa236d507c3c",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.00.325/ifcready-Setup-Admin-1.00.325.exe",
+      "installerNameAdmin": "ifcready-Setup-Admin-1.00.325.exe",
+      "sizeBytesAdmin": 154408021,
+      "sha256Admin": "258dbb32364063db3f2bd34c81609d1acb1a563dec2e64439f71cf4f763e7761"
     }
   }
 }
