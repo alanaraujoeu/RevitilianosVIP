@@ -1,17 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T21:50:04.1745847Z",
+  "updatedAt": "2026-11-10T21:52:02.6917983Z",
   "apps": {
-    "conversor": {
-      "name": "Conversor Universal",
-      "version": "1.0.0",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/conversor-v1.0.0/conversor-Setup-1.0.0.exe",
-      "installerName": "conversor-Setup-1.0.0.exe",
-      "sizeBytes": 33572683,
-      "sha256": "e7521fbe51ba32f4c746abb52a0f5709d4f4055932fa49f27ccd66b31340630c",
-      "publishedAt": "2026-10-09T13:30:11.8418556Z",
-      "notes": "Primeira versao com instalador proprio"
-    },
     "tour360": {
       "name": "Tour Revitiliano 360",
       "version": "1.1.00",
@@ -53,6 +43,20 @@
       "installerNameAdmin": "alanpoint-Setup-Admin-1.1.00.exe",
       "sizeBytesAdmin": 25356624,
       "sha256Admin": "dd288dbeb383996c931d1a909448f98d717b0bc91bf0d478f5df6ffba353e7c5"
+    },
+    "conversor": {
+      "name": "Conversor Universal",
+      "version": "1.1.00",
+      "publishedAt": "2026-11-10T21:51:51.2180448Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-ConversorUniversal/releases/latest/download/conversor-Setup-1.1.00.exe",
+      "installerName": "conversor-Setup-1.1.00.exe",
+      "sizeBytes": 33572554,
+      "sha256": "1a132a1c446eca065b6bd7d7c14ce56d34e4079c23716a2fa033af12bc602fb4",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-ConversorUniversal/releases/latest/download/conversor-Setup-Admin-1.1.00.exe",
+      "installerNameAdmin": "conversor-Setup-Admin-1.1.00.exe",
+      "sizeBytesAdmin": 33572571,
+      "sha256Admin": "788f85315c92033586b7fa48495287b3da37b657715f22ce9651b02a4711a185"
     }
   }
 }
