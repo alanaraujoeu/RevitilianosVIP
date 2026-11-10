@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T21:44:25.2712266Z",
+  "updatedAt": "2026-11-10T21:48:49.2399696Z",
   "apps": {
     "conversor": {
       "name": "Conversor Universal",
@@ -11,20 +11,6 @@
       "sha256": "e7521fbe51ba32f4c746abb52a0f5709d4f4055932fa49f27ccd66b31340630c",
       "publishedAt": "2026-10-09T13:30:11.8418556Z",
       "notes": "Primeira versao com instalador proprio"
-    },
-    "ifcready": {
-      "name": "IFC Ready",
-      "version": "1.00.325",
-      "publishedAt": "2026-11-10T21:25:24.9065722Z",
-      "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.00.325/ifcready-Setup-1.00.325.exe",
-      "installerName": "ifcready-Setup-1.00.325.exe",
-      "sizeBytes": 154408020,
-      "sha256": "11c864e7ef411db809859ee28cb88cabeaa95577b290283476d2aa236d507c3c",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/ifcready-v1.00.325/ifcready-Setup-Admin-1.00.325.exe",
-      "installerNameAdmin": "ifcready-Setup-Admin-1.00.325.exe",
-      "sizeBytesAdmin": 154408021,
-      "sha256Admin": "258dbb32364063db3f2bd34c81609d1acb1a563dec2e64439f71cf4f763e7761"
     },
     "alanpoint": {
       "name": "AlanPoint",
@@ -53,6 +39,20 @@
       "installerNameAdmin": "tour360-Setup-Admin-1.1.00.exe",
       "sizeBytesAdmin": 179395412,
       "sha256Admin": "09a7636ccb6f02d65fc184d8e6dc2c8a64f2fc92d33c1c773a8a8c9ea1e220d3"
+    },
+    "ifcready": {
+      "name": "IFC Ready",
+      "version": "1.00.325",
+      "publishedAt": "2026-11-10T21:48:27.2889815Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-1.00.325.exe",
+      "installerName": "ifcready-Setup-1.00.325.exe",
+      "sizeBytes": 154409378,
+      "sha256": "74afb09dd5663f06d8819848112261864b78875dba9e491a8b6857a8c9ff4910",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-Admin-1.00.325.exe",
+      "installerNameAdmin": "ifcready-Setup-Admin-1.00.325.exe",
+      "sizeBytesAdmin": 154409379,
+      "sha256Admin": "b9a77abb306e462ec9dc20824808b2804ca5294924898cd9fd8289c624111ec9"
     }
   }
 }
