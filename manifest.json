@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T22:08:22.5688401Z",
+  "updatedAt": "2026-11-10T23:39:52.6542357Z",
   "apps": {
     "alanpoint": {
       "name": "AlanPoint",
@@ -30,20 +30,6 @@
       "sizeBytesAdmin": 33572571,
       "sha256Admin": "788f85315c92033586b7fa48495287b3da37b657715f22ce9651b02a4711a185"
     },
-    "tour360": {
-      "name": "Tour Revitiliano 360",
-      "version": "1.1.00",
-      "publishedAt": "2026-11-10T22:02:46.7801513Z",
-      "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-1.1.00.exe",
-      "installerName": "tour360-Setup-1.1.00.exe",
-      "sizeBytes": 179391510,
-      "sha256": "af7a8b03d6d78935c97c990f4944fc73a0cb3f2cc76c3b851e6a626a8daa7799",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-Admin-1.1.00.exe",
-      "installerNameAdmin": "tour360-Setup-Admin-1.1.00.exe",
-      "sizeBytesAdmin": 179391500,
-      "sha256Admin": "c02851d036586422c0a79c59b7b41022bcb3f6a373796873188babb88aaaee65"
-    },
     "ifcready": {
       "name": "IFC Ready",
       "version": "1.00.325",
@@ -57,6 +43,20 @@
       "installerNameAdmin": "ifcready-Setup-Admin-1.00.325.exe",
       "sizeBytesAdmin": 154412937,
       "sha256Admin": "4e1228005acd095eecd7f9a961197d538c8b335629671d6c38736056d05722c6"
+    },
+    "tour360": {
+      "name": "Tour Revitiliano 360",
+      "version": "1.1.00",
+      "publishedAt": "2026-11-10T23:39:23.6502047Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup.exe",
+      "installerName": "tour360-Setup.exe",
+      "sizeBytes": 179391501,
+      "sha256": "b7d779bc06992b9eea2c99c6cf7c1a0f99face08a3dc6ff6883a3522c5aceac8",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-Admin.exe",
+      "installerNameAdmin": "tour360-Setup-Admin.exe",
+      "sizeBytesAdmin": 179391491,
+      "sha256Admin": "12bdc36f1fea510504c69e9388e8a01c0bc05fe279dfde1dd1dc599c1feb5680"
     }
   }
 }
