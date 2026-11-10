@@ -1,21 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T22:03:18.9507026Z",
+  "updatedAt": "2026-11-10T22:08:22.5688401Z",
   "apps": {
-    "ifcready": {
-      "name": "IFC Ready",
-      "version": "1.00.325",
-      "publishedAt": "2026-11-10T21:48:27.2889815Z",
-      "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-1.00.325.exe",
-      "installerName": "ifcready-Setup-1.00.325.exe",
-      "sizeBytes": 154409378,
-      "sha256": "74afb09dd5663f06d8819848112261864b78875dba9e491a8b6857a8c9ff4910",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-Admin-1.00.325.exe",
-      "installerNameAdmin": "ifcready-Setup-Admin-1.00.325.exe",
-      "sizeBytesAdmin": 154409379,
-      "sha256Admin": "b9a77abb306e462ec9dc20824808b2804ca5294924898cd9fd8289c624111ec9"
-    },
     "alanpoint": {
       "name": "AlanPoint",
       "version": "1.1.00",
@@ -57,6 +43,20 @@
       "installerNameAdmin": "tour360-Setup-Admin-1.1.00.exe",
       "sizeBytesAdmin": 179391500,
       "sha256Admin": "c02851d036586422c0a79c59b7b41022bcb3f6a373796873188babb88aaaee65"
+    },
+    "ifcready": {
+      "name": "IFC Ready",
+      "version": "1.00.325",
+      "publishedAt": "2026-11-10T22:07:49.4427949Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-1.00.325.exe",
+      "installerName": "ifcready-Setup-1.00.325.exe",
+      "sizeBytes": 154412936,
+      "sha256": "510569ed6d6dd1c23194444e778f339d616cab2a483e2b90fa6118566b1b8423",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-Admin-1.00.325.exe",
+      "installerNameAdmin": "ifcready-Setup-Admin-1.00.325.exe",
+      "sizeBytesAdmin": 154412937,
+      "sha256Admin": "4e1228005acd095eecd7f9a961197d538c8b335629671d6c38736056d05722c6"
     }
   }
 }
