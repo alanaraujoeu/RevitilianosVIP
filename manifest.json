@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T21:32:31.4049730Z",
+  "updatedAt": "2026-11-10T21:44:25.2712266Z",
   "apps": {
     "conversor": {
       "name": "Conversor Universal",
@@ -43,16 +43,16 @@
     "tour360": {
       "name": "Tour Revitiliano 360",
       "version": "1.1.00",
-      "publishedAt": "2026-11-10T21:32:05.0649793Z",
+      "publishedAt": "2026-11-10T21:44:00.6517743Z",
       "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.1.00/tour360-Setup-1.1.00.exe",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-1.1.00.exe",
       "installerName": "tour360-Setup-1.1.00.exe",
-      "sizeBytes": 179395425,
-      "sha256": "57dd029048ce2b32454f5bccee422c39dc51a9992805170d9f703122b6738088",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.1.00/tour360-Setup-Admin-1.1.00.exe",
+      "sizeBytes": 179395422,
+      "sha256": "af3d1dca5ab913f9fa25f3a18a2f197fc0bde1d0be8ec1ad5252671de322b59d",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-Admin-1.1.00.exe",
       "installerNameAdmin": "tour360-Setup-Admin-1.1.00.exe",
-      "sizeBytesAdmin": 179395415,
-      "sha256Admin": "e782e415c6729da64dcab6619f7089ca768cca8d92bf0a4a0c22c85c1de2ca9c"
+      "sizeBytesAdmin": 179395412,
+      "sha256Admin": "09a7636ccb6f02d65fc184d8e6dc2c8a64f2fc92d33c1c773a8a8c9ea1e220d3"
     }
   }
 }
