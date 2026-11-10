@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T01:12:38.8782356Z",
+  "updatedAt": "2026-11-10T21:21:29.2201642Z",
   "apps": {
     "ifcready": {
       "name": "IFC Ready",
@@ -34,13 +34,17 @@
     },
     "tour360": {
       "name": "Tour Revitiliano 360",
-      "version": "1.0.1",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.0.1/tour360-Setup-1.0.1.exe",
-      "installerName": "tour360-Setup-1.0.1.exe",
-      "sizeBytes": 129633324,
-      "sha256": "3b0e7cbcab8eae911f7694685a98b157e268d88c42c6565e9c83a3d59403e51f",
-      "publishedAt": "2026-10-15T01:12:38.8629461Z",
-      "notes": "Costura de fotos refeita: escolhe a lente sozinho, descarta fotos que nao encaixam e nao fecha mais o app"
+      "version": "1.1.00",
+      "publishedAt": "2026-11-10T21:21:04.4068417Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.1.00/tour360-Setup-1.1.00.exe",
+      "installerName": "tour360-Setup-1.1.00.exe",
+      "sizeBytes": 179395414,
+      "sha256": "c9f584174215ee9445b7c83f470815e4a17538e25a8b6ff4b26c31ef6f42887a",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP/releases/download/tour360-v1.1.00/tour360-Setup-Admin-1.1.00.exe",
+      "installerNameAdmin": "tour360-Setup-Admin-1.1.00.exe",
+      "sizeBytesAdmin": 179395404,
+      "sha256Admin": "1666acf8aa00eb1ad4452178758721eaebdbe0da08e204e4634300efe1ac3961"
     }
   }
 }
