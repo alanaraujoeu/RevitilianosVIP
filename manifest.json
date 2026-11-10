@@ -1,21 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T23:45:58.8959356Z",
+  "updatedAt": "2026-11-10T23:47:46.0471896Z",
   "apps": {
-    "conversor": {
-      "name": "Conversor Universal",
-      "version": "1.1.00",
-      "publishedAt": "2026-11-10T21:51:51.2180448Z",
-      "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-ConversorUniversal/releases/latest/download/conversor-Setup-1.1.00.exe",
-      "installerName": "conversor-Setup-1.1.00.exe",
-      "sizeBytes": 33572554,
-      "sha256": "1a132a1c446eca065b6bd7d7c14ce56d34e4079c23716a2fa033af12bc602fb4",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-ConversorUniversal/releases/latest/download/conversor-Setup-Admin-1.1.00.exe",
-      "installerNameAdmin": "conversor-Setup-Admin-1.1.00.exe",
-      "sizeBytesAdmin": 33572571,
-      "sha256Admin": "788f85315c92033586b7fa48495287b3da37b657715f22ce9651b02a4711a185"
-    },
     "tour360": {
       "name": "Tour Revitiliano 360",
       "version": "1.1.00",
@@ -57,6 +43,20 @@
       "installerNameAdmin": "alanpoint-Setup-Admin.exe",
       "sizeBytesAdmin": 25356620,
       "sha256Admin": "06c7a55cace48c85e37ac64f7cceec4d0a422008ce7a77edbab39a9eea6fa035"
+    },
+    "conversor": {
+      "name": "Conversor Universal",
+      "version": "1.1.00",
+      "publishedAt": "2026-11-10T23:47:34.2396198Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-ConversorUniversal/releases/latest/download/conversor-Setup.exe",
+      "installerName": "conversor-Setup.exe",
+      "sizeBytes": 33570241,
+      "sha256": "6f24b9370ac25715071ade8865643978199f613180f01ed38514610277844ce4",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-ConversorUniversal/releases/latest/download/conversor-Setup-Admin.exe",
+      "installerNameAdmin": "conversor-Setup-Admin.exe",
+      "sizeBytesAdmin": 33570258,
+      "sha256Admin": "a7bbc6536c94fd6beacbe36ffab3ff2736b49a0e02f445d768be473f3345f0e9"
     }
   }
 }
