@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-11T02:58:41.8778846Z",
+  "updatedAt": "2026-11-11T03:04:41.0327855Z",
   "apps": {
     "alanpoint": {
       "name": "AlanPoint",
@@ -30,20 +30,6 @@
       "sizeBytesAdmin": 33570258,
       "sha256Admin": "a7bbc6536c94fd6beacbe36ffab3ff2736b49a0e02f445d768be473f3345f0e9"
     },
-    "tour360": {
-      "name": "Tour Revitiliano 360",
-      "version": "1.1.00",
-      "publishedAt": "2026-11-11T02:53:31.3870338Z",
-      "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup.exe",
-      "installerName": "tour360-Setup.exe",
-      "sizeBytes": 179391021,
-      "sha256": "0ed1d3858a4ef412a20e051aa776ac131e09f4170fb2fb86034577466bd9d5de",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-Admin.exe",
-      "installerNameAdmin": "tour360-Setup-Admin.exe",
-      "sizeBytesAdmin": 179391011,
-      "sha256Admin": "20d9b83ea0e85eaad76314b101fe20d72248fa3b85c4a58631199fbf7e397e60"
-    },
     "ifcready": {
       "name": "IFC Ready",
       "version": "1.00.325",
@@ -57,6 +43,20 @@
       "installerNameAdmin": "ifcready-Setup-Admin.exe",
       "sizeBytesAdmin": 154420049,
       "sha256Admin": "b1f8bb26fce449479b07b136c2cbd491abab03c367ba78824b79c11037a7546a"
+    },
+    "tour360": {
+      "name": "Tour Revitiliano 360",
+      "version": "1.1.01",
+      "publishedAt": "2026-11-11T03:04:15.2965043Z",
+      "notes": "Corrige a recuperacao das localizacoes por IP no mapa administrativo.",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup.exe",
+      "installerName": "tour360-Setup.exe",
+      "sizeBytes": 179406064,
+      "sha256": "42e910307efa9500f44bb1252bbf7f67122463f89b8321d3ad7d0b75c0c2f4d2",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-Admin.exe",
+      "installerNameAdmin": "tour360-Setup-Admin.exe",
+      "sizeBytesAdmin": 179406070,
+      "sha256Admin": "fca80fb76fc7ebebf13694aea0aac5cce0b49bf36783fd15c52721026b3da098"
     }
   }
 }
