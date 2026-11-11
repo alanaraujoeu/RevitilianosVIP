@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-11T03:04:41.0327855Z",
+  "updatedAt": "2026-11-11T03:09:08.4012172Z",
   "apps": {
     "alanpoint": {
       "name": "AlanPoint",
@@ -30,20 +30,6 @@
       "sizeBytesAdmin": 33570258,
       "sha256Admin": "a7bbc6536c94fd6beacbe36ffab3ff2736b49a0e02f445d768be473f3345f0e9"
     },
-    "ifcready": {
-      "name": "IFC Ready",
-      "version": "1.00.325",
-      "publishedAt": "2026-11-11T02:58:19.0414297Z",
-      "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup.exe",
-      "installerName": "ifcready-Setup.exe",
-      "sizeBytes": 154420048,
-      "sha256": "7801195e5ac89dccb3bcaa5ed02dc9ba7b21658742c7861db07aac9611dcf858",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-Admin.exe",
-      "installerNameAdmin": "ifcready-Setup-Admin.exe",
-      "sizeBytesAdmin": 154420049,
-      "sha256Admin": "b1f8bb26fce449479b07b136c2cbd491abab03c367ba78824b79c11037a7546a"
-    },
     "tour360": {
       "name": "Tour Revitiliano 360",
       "version": "1.1.01",
@@ -57,6 +43,20 @@
       "installerNameAdmin": "tour360-Setup-Admin.exe",
       "sizeBytesAdmin": 179406070,
       "sha256Admin": "fca80fb76fc7ebebf13694aea0aac5cce0b49bf36783fd15c52721026b3da098"
+    },
+    "ifcready": {
+      "name": "IFC Ready",
+      "version": "1.00.326",
+      "publishedAt": "2026-11-11T03:08:48.6640455Z",
+      "notes": "Corrige a recuperacao das localizacoes por IP no mapa administrativo.",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup.exe",
+      "installerName": "ifcready-Setup.exe",
+      "sizeBytes": 154416428,
+      "sha256": "e584cd3c987fef3b710083c63c305172a091adb9e820c207b60b29d90d231100",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-Admin.exe",
+      "installerNameAdmin": "ifcready-Setup-Admin.exe",
+      "sizeBytesAdmin": 154416429,
+      "sha256Admin": "0fd20eb91c6448e9c189046fb18f99752d664f40531b16d8065e3a32e1020b5b"
     }
   }
 }
