@@ -1,21 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-10T23:47:46.0471896Z",
+  "updatedAt": "2026-11-11T02:53:59.4368101Z",
   "apps": {
-    "tour360": {
-      "name": "Tour Revitiliano 360",
-      "version": "1.1.00",
-      "publishedAt": "2026-11-10T23:39:23.6502047Z",
-      "notes": "",
-      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup.exe",
-      "installerName": "tour360-Setup.exe",
-      "sizeBytes": 179391501,
-      "sha256": "b7d779bc06992b9eea2c99c6cf7c1a0f99face08a3dc6ff6883a3522c5aceac8",
-      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-Admin.exe",
-      "installerNameAdmin": "tour360-Setup-Admin.exe",
-      "sizeBytesAdmin": 179391491,
-      "sha256Admin": "12bdc36f1fea510504c69e9388e8a01c0bc05fe279dfde1dd1dc599c1feb5680"
-    },
     "ifcready": {
       "name": "IFC Ready",
       "version": "1.00.325",
@@ -57,6 +43,20 @@
       "installerNameAdmin": "conversor-Setup-Admin.exe",
       "sizeBytesAdmin": 33570258,
       "sha256Admin": "a7bbc6536c94fd6beacbe36ffab3ff2736b49a0e02f445d768be473f3345f0e9"
+    },
+    "tour360": {
+      "name": "Tour Revitiliano 360",
+      "version": "1.1.00",
+      "publishedAt": "2026-11-11T02:53:31.3870338Z",
+      "notes": "",
+      "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup.exe",
+      "installerName": "tour360-Setup.exe",
+      "sizeBytes": 179391021,
+      "sha256": "0ed1d3858a4ef412a20e051aa776ac131e09f4170fb2fb86034577466bd9d5de",
+      "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-Tour360/releases/latest/download/tour360-Setup-Admin.exe",
+      "installerNameAdmin": "tour360-Setup-Admin.exe",
+      "sizeBytesAdmin": 179391011,
+      "sha256Admin": "20d9b83ea0e85eaad76314b101fe20d72248fa3b85c4a58631199fbf7e397e60"
     }
   }
 }
