@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-11T03:09:08.4012172Z",
+  "updatedAt": "2026-11-24T02:34:13.7777213Z",
   "apps": {
     "alanpoint": {
       "name": "AlanPoint",
@@ -46,17 +46,17 @@
     },
     "ifcready": {
       "name": "IFC Ready",
-      "version": "1.00.326",
-      "publishedAt": "2026-11-11T03:08:48.6640455Z",
-      "notes": "Corrige a recuperacao das localizacoes por IP no mapa administrativo.",
+      "version": "1.00.478",
+      "publishedAt": "2026-11-24T02:33:34.6503166Z",
+      "notes": "Cotas por angulo, portas/janelas recortando parede, parede/piso/forro/telhado por planta rasterizada, ambientes e quantitativos, ordem fixa de propriedades, Medir/Cota com overlay 2D, escada/guarda-corpo/piso inclinado, estrutura e complementos (pilar, viga, fundacao, rampa, pele de vidro etc.), modo Ortho (F8), retangulo em 4 cliques.",
       "installerUrl": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup.exe",
       "installerName": "ifcready-Setup.exe",
-      "sizeBytes": 154416428,
-      "sha256": "e584cd3c987fef3b710083c63c305172a091adb9e820c207b60b29d90d231100",
+      "sizeBytes": 156605306,
+      "sha256": "8ca7f92256720af5cb024c53fd3d5bf609f380dc8a824ced363b825e8f377d48",
       "installerUrlAdmin": "https://github.com/alanaraujoeu/RevitilianosVIP-IfcReady/releases/latest/download/ifcready-Setup-Admin.exe",
       "installerNameAdmin": "ifcready-Setup-Admin.exe",
-      "sizeBytesAdmin": 154416429,
-      "sha256Admin": "0fd20eb91c6448e9c189046fb18f99752d664f40531b16d8065e3a32e1020b5b"
+      "sizeBytesAdmin": 156605327,
+      "sha256Admin": "7e4200d027e616db8d8916fa95e4db8757766b802a4c3dd671369d508fec2e55"
     }
   }
 }
